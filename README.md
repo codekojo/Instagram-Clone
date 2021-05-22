@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://github.com/codekojo/spotify-clone/blob/main/spotify/Screen%20Shot%202021-05-22%20at%208.52.55%20PM.png?raw=true" alt="IMG" />
+    <img src="https://github.com/codekojo/Instagram-Clone/blob/main/instagram/Screen%20Shot%202021-05-22%20at%2011.45.52%20PM.png?raw=true" alt="IMG" />
 </p>
 
 ## 🛠 Installation & Set Up
@@ -50,30 +50,25 @@
 
 <h1>On IOS</h1>
 <p align="center">
-    <img src="https://github.com/codekojo/spotify-clone/blob/main/spotify/Screen%20Shot%202021-05-22%20at%208.43.18%20PM.png?raw=true" alt="IMG" " />
+    <img src="https://github.com/codekojo/Instagram-Clone/blob/main/instagram/Screen%20Shot%202021-05-22%20at%2011.43.09%20PM.png?raw=true" alt="IMG" " />
 </p>
 <p align="center">
-    <img src="https://github.com/codekojo/spotify-clone/blob/main/spotify/Screen%20Shot%202021-05-22%20at%208.43.30%20PM.png?raw=true" alt="IMG"  "/>
+    <img src="https://github.com/codekojo/Instagram-Clone/blob/main/instagram/Screen%20Shot%202021-05-22%20at%2011.43.41%20PM.png?raw=true" alt="IMG"  "/>
 </p>
 <p align="center">
-    <img src="https://github.com/codekojo/spotify-clone/blob/main/spotify/Screen%20Shot%202021-05-22%20at%208.43.35%20PM.png?raw=true" alt="IMG" " />
-</p>
-
-<h2>Album Section</h2>
-<p align="center">
-    <img src="https://github.com/codekojo/spotify-clone/blob/main/spotify/Screen%20Shot%202021-05-22%20at%208.43.47%20PM.png?raw=true" alt="IMG"  width="500" height="600" />
+    <img src="https://github.com/codekojo/Instagram-Clone/blob/main/instagram/Screen%20Shot%202021-05-22%20at%2011.43.48%20PM.png?raw=true" alt="IMG" " />
 </p>
 <p align="center">
-    <img src="https://github.com/codekojo/spotify-clone/blob/main/spotify/Screen%20Shot%202021-05-22%20at%208.44.08%20PM.png?raw=true" alt="IMG" " />
+    <img src="https://github.com/codekojo/Instagram-Clone/blob/main/instagram/Screen%20Shot%202021-05-22%20at%2011.43.54%20PM.png?raw=true" alt="IMG" " />
 </p>
 
 <h1>On Android</h1>
 <p align="center">
-    <img src="https://github.com/codekojo/spotify-clone/blob/main/spotify/Screen%20Shot%202021-05-22%20at%208.50.58%20PM.png?raw=true" alt="IMG"  " />
+    <img src="https://github.com/codekojo/Instagram-Clone/blob/main/instagram/Screen%20Shot%202021-05-22%20at%2011.44.07%20PM.png?raw=true" alt="IMG"  " />
 </p>
 <p align="center">
-    <img src="https://github.com/codekojo/spotify-clone/blob/main/spotify/Screen%20Shot%202021-05-22%20at%208.51.18%20PM.png?raw=true" alt="IMG"  " />
+    <img src="https://github.com/codekojo/Instagram-Clone/blob/main/instagram/Screen%20Shot%202021-05-22%20at%2011.44.37%20PM.png?raw=true" alt="IMG"  " />
 </p>
 <p align="center">
-    <img src="https://github.com/codekojo/spotify-clone/blob/main/spotify/Screen%20Shot%202021-05-22%20at%208.51.56%20PM.png?raw=true" alt="IMG"  " />
+    <img src="https://github.com/codekojo/Instagram-Clone/blob/main/instagram/Screen%20Shot%202021-05-22%20at%2011.44.52%20PM.png?raw=true" alt="IMG"  " />
 </p>
